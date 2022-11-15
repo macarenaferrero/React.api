@@ -1,0 +1,46 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "title": "Yesterday",
+      "genero": "Musical",
+      "anio": "1900"
+    },
+    {
+      "id": 2,
+      "title": "Tsunami",
+      "genero": "Terror",
+      "anio": "2010"
+    },
+    {
+      "id": 3,
+      "title": "Pasado Pisado",
+      "genero": "Suspenso",
+      "anio": "2005"
+    },
+    {
+      "title": "La vida es bella",
+      "genero": "Romantica",
+      "anio": "2006",
+      "id": 4
+    },
+    {
+      "title": "Nemo",
+      "genero": "Comedia",
+      "anio": "2010",
+      "id": 5
+    },
+    {
+      "title": "Kill Bill",
+      "genero": "Suspenso",
+      "anio": "2001",
+      "id": 6
+    },
+    {
+      "title": "Suavemente",
+      "genero": "Romántica",
+      "anio": "1999",
+      "id": 7
+    }
+  ]
+}
